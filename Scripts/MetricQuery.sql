@@ -1,0 +1,1 @@
+SELECT count(name) FROM public.metric;
